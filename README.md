@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @juxnbernxrdo
+- 👀 I’m interested on AI
+- 🌱 I’m currently learning Python
+- ⚡ Fun fact: I started developing at 12 years old
