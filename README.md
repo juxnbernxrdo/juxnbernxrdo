@@ -1,22 +1,117 @@
-👋 Hi there! I’m @juxnbernxrdo
-🚀 Passionate about Artificial Intelligence and software development, with a focus on creating technological solutions that transform businesses and processes.
-💡 Currently diving deeper into Python to enhance my projects and skills.
-👨‍💻 Coding since I was 12 years old, with experience across multiple areas and innovative projects.
+# 👋 Welcome! I'm @juxnbernxrdo
 
-🔭 Current Projects
-CoreX
-Redefining the digital landscape for both emerging and established companies. CoreX combines cutting-edge technology with a deep understanding of business to transform traditional processes into intelligent, scalable, and optimized digital systems, generating sustainable value through customized solutions.
+**Passionate AI Developer & Software Engineer** transforming businesses through intelligent technology solutions.
 
-SmartConnect
-A comprehensive solution designed to optimize sales and customer communication. SmartConnect leverages advanced automation, AI, and multichannel management to convert interactions into commercial opportunities, providing executive reports and statistical visualizations for in-depth performance analysis.
+---
 
-StarMind AI
-An advanced artificial intelligence platform that customizes specialized AI models for various sectors and market niches. With StarMind AI, you can launch projects from scratch, leveraging pre-trained and optimized layers for key areas such as Law, Human Resources, Finance, code development (Code-Mind), and entrepreneurship (Founder). This modular and scalable solution accelerates innovation, allowing you to create intelligent systems tailored to specific needs, reducing development time and costs.
+## 🚀 About Me
 
-🌱 Skills and Technologies
-Languages: Python (learning), JavaScript, and more.
-Areas of Interest: Artificial Intelligence, Machine Learning, Automation, Software Development.
-Tools: AI Models, Multichannel Management, Data Analysis, Modular Development.
-⚡ Fun Facts
-I started programming at 12 years old, which has given me a strong foundation and a constant passion for technology.
-I love learning, innovating, and sharing knowledge with the community.
+With over a decade of programming experience (started at age 12!), I specialize in **Artificial Intelligence** and full-stack development. I'm dedicated to creating scalable technological solutions that drive real business transformation and process optimization.
+
+Currently expanding my expertise in **Python** to build more powerful AI-driven applications and enhance my development toolkit.
+
+---
+
+## 🔭 Featured Projects
+
+### 🌐 **CoreX**
+*Digital Transformation Platform*
+
+Redefining the digital landscape for emerging and established companies. CoreX combines cutting-edge technology with deep business understanding to transform traditional processes into intelligent, scalable, and optimized digital systems.
+
+**Key Features:**
+- Intelligent process automation
+- Scalable digital infrastructure
+- Custom business solutions
+- Sustainable value generation
+
+---
+
+### 📞 **SmartConnect**
+*AI-Powered Sales & Communication Suite*
+
+A comprehensive solution that optimizes sales processes and customer communication through advanced automation and multichannel management.
+
+**Capabilities:**
+- Advanced sales automation
+- AI-driven customer interactions
+- Multichannel communication management
+- Executive reporting & analytics
+- Performance visualization dashboards
+
+---
+
+### 🧠 **StarMind AI**
+*Specialized AI Model Platform*
+
+An advanced artificial intelligence platform that delivers customized AI models for various sectors and market niches. Accelerate your AI projects with pre-trained, optimized layers.
+
+**Specialized Modules:**
+- **LegalMind**: Legal sector AI solutions
+- **HRMind**: Human Resources automation
+- **FinanceMind**: Financial analysis & modeling
+- **CodeMind**: Development assistance & automation
+- **FounderMind**: Entrepreneurship & business strategy
+
+**Benefits:**
+- Modular and scalable architecture
+- Reduced development time and costs
+- Sector-specific optimization
+- Rapid project deployment
+
+---
+
+## 🛠️ Technical Stack
+
+### **Programming Languages**
+- **Python** (Advanced Learning)
+- **JavaScript** (Proficient)
+- Additional languages as needed
+
+### **Core Expertise**
+- **Artificial Intelligence & Machine Learning**
+- **Process Automation**
+- **Full-Stack Development**
+- **Data Analysis & Visualization**
+
+### **Tools & Technologies**
+- AI Model Development & Deployment
+- Multichannel Management Systems
+- Statistical Analysis & Reporting
+- Modular Development Frameworks
+
+---
+
+## 🌱 Current Focus
+
+- Deepening **Python** expertise for advanced AI applications
+- Exploring cutting-edge machine learning techniques
+- Building scalable AI infrastructure
+- Contributing to open-source AI projects
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=juxnbernxrdo&show_icons=true&theme=dark)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects, sharing knowledge, and contributing to the tech community. Whether you're looking to implement AI solutions, need development expertise, or want to discuss the latest in technology - let's connect!
+
+**Interested in AI transformation for your business?** Feel free to reach out to discuss how we can leverage technology to drive your success.
+
+---
+
+## ⚡ Fun Facts
+
+- 🎯 Started my programming journey at **12 years old**
+- 🔬 Passionate about **continuous learning** and staying at the forefront of technology
+- 🌍 Love **sharing knowledge** and contributing to developer communities
+- 🚀 Always excited about the next technological breakthrough
+
+---
+
+*"Technology is best when it brings people together and solves real problems."*
