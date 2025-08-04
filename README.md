@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-With over a decade of programming experience (started at age 12!), I specialize in **Artificial Intelligence** and full-stack development. I'm dedicated to creating scalable technological solutions that drive real business transformation and process optimization.
+With over a 5 years of programming experience (started at age 12!), I specialize in **Artificial Intelligence** and full-stack development. I'm dedicated to creating scalable technological solutions that drive real business transformation and process optimization.
 
 Currently expanding my expertise in **Python** to build more powerful AI-driven applications and enhance my development toolkit.
 
