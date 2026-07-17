@@ -1,117 +1,109 @@
-# 👋 Welcome! I'm @juxnbernxrdo
+<div align="center">
 
-**Passionate AI Developer & Software Engineer** transforming businesses through intelligent technology solutions.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ juan@github ~ %                                                │
+└──────────────────────────────────────────────────────────────┘
+```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;juan+bernardo+ord%C3%B3%C3%B1ez;%24+status+--current;building+contamind+ai+%E2%80%94+ai-native+erp;%24+echo+%24FOCUS;backend+%2B+ai+systems+%2B+applied+ml"/>
 
-## 🚀 About Me
+<p>
+  <img src="https://komarev.com/ghpvc/?username=juxnbernxrdo&style=flat-square&color=00FF00&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/juxnbernxrdo?style=flat-square&color=00FF00&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/juxnbernxrdo?style=flat-square&color=00FF00&label=STARS"/>
+</p>
 
-With over a 5 years of programming experience (started at age 12!), I specialize in **Artificial Intelligence** and full-stack development. I'm dedicated to creating scalable technological solutions that drive real business transformation and process optimization.
-
-Currently expanding my expertise in **Python** to build more powerful AI-driven applications and enhance my development toolkit.
-
----
-
-## 🔭 Featured Projects
-
-### 🌐 **CoreX**
-*Digital Transformation Platform*
-
-Redefining the digital landscape for emerging and established companies. CoreX combines cutting-edge technology with deep business understanding to transform traditional processes into intelligent, scalable, and optimized digital systems.
-
-**Key Features:**
-- Intelligent process automation
-- Scalable digital infrastructure
-- Custom business solutions
-- Sustainable value generation
+</div>
 
 ---
 
-### 📞 **SmartConnect**
-*AI-Powered Sales & Communication Suite*
+```bash
+juan@github:~$ whoami
+```
 
-A comprehensive solution that optimizes sales processes and customer communication through advanced automation and multichannel management.
+```yaml
+name:      Juan Bernardo Ordóñez
+role:      Software Engineer / AI Engineer
+location:  Ecuador
+focus:     AI-native systems for SMEs · backend architecture · applied ML
 
-**Capabilities:**
-- Advanced sales automation
-- AI-driven customer interactions
-- Multichannel communication management
-- Executive reporting & analytics
-- Performance visualization dashboards
-
----
-
-### 🧠 **StarMind AI**
-*Specialized AI Model Platform*
-
-An advanced artificial intelligence platform that delivers customized AI models for various sectors and market niches. Accelerate your AI projects with pre-trained, optimized layers.
-
-**Specialized Modules:**
-- **LegalMind**: Legal sector AI solutions
-- **HRMind**: Human Resources automation
-- **FinanceMind**: Financial analysis & modeling
-- **CodeMind**: Development assistance & automation
-- **FounderMind**: Entrepreneurship & business strategy
-
-**Benefits:**
-- Modular and scalable architecture
-- Reduced development time and costs
-- Sector-specific optimization
-- Rapid project deployment
+interests:
+  - Artificial Intelligence & Machine Learning
+  - Software Architecture
+  - Backend Engineering
+  - Cybersecurity
+  - Distributed Systems
+  - High Performance Computing
+```
 
 ---
 
-## 🛠️ Technical Stack
+```bash
+juan@github:~$ ls -la ~/projects/
+```
 
-### **Programming Languages**
-- **Python** (Advanced Learning)
-- **JavaScript** (Proficient)
-- Additional languages as needed
+```text
+drwxr-xr-x  contamind-ai/    AI-native ERP & Business Operating System
+```
 
-### **Core Expertise**
-- **Artificial Intelligence & Machine Learning**
-- **Process Automation**
-- **Full-Stack Development**
-- **Data Analysis & Visualization**
+**ContaMind AI** — AI-native ERP & Business Operating System for Ecuadorian SMEs.
 
-### **Tools & Technologies**
-- AI Model Development & Deployment
-- Multichannel Management Systems
-- Statistical Analysis & Reporting
-- Modular Development Frameworks
+- AI agents for business operations
+- Secure authentication, LOPDP-compliant (data export & right-to-erasure)
+- Modern backend architecture — NestJS + TypeScript
+- PostgreSQL + Prisma
+- Modular, API-first design
 
----
-
-## 🌱 Current Focus
-
-- Deepening **Python** expertise for advanced AI applications
-- Exploring cutting-edge machine learning techniques
-- Building scalable AI infrastructure
-- Contributing to open-source AI projects
+```text
+stack: TypeScript · NestJS · PostgreSQL · Prisma · Docker
+```
 
 ---
 
-## 📊 GitHub Stats
+```bash
+juan@github:~$ cat ~/.stack
+```
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=juxnbernxrdo&show_icons=true&theme=dark)
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on innovative projects, sharing knowledge, and contributing to the tech community. Whether you're looking to implement AI solutions, need development expertise, or want to discuss the latest in technology - let's connect!
-
-**Interested in AI transformation for your business?** Feel free to reach out to discuss how we can leverage technology to drive your success.
-
----
-
-## ⚡ Fun Facts
-
-- 🎯 Started my programming journey at **12 years old**
-- 🔬 Passionate about **continuous learning** and staying at the forefront of technology
-- 🌍 Love **sharing knowledge** and contributing to developer communities
-- 🚀 Always excited about the next technological breakthrough
+<p>
+  <img src="https://img.shields.io/badge/-AI-000000?style=flat-square&logo=openai"/>
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/-NestJS-000000?style=flat-square&logo=nestjs&logoColor=E0234E"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/-Prisma-000000?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=FCC624"/>
+</p>
 
 ---
 
-*"Technology is best when it brings people together and solves real problems."*
+```bash
+juan@github:~$ ./fetch-stats.sh
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juxnbernxrdo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juxnbernxrdo&theme=highcontrast&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juxnbernxrdo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165"/>
+</p>
+
+---
+
+```bash
+juan@github:~$ cat ~/.contact
+```
+
+<p>
+  <a href="https://github.com/juxnbernxrdo"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
+  <!-- añade tus badges de LinkedIn / email / X aquí -->
+</p>
+
+```bash
+juan@github:~$ exit
+# process exited with status 0
+```
